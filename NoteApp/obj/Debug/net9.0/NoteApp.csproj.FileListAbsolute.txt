@@ -1,0 +1,14 @@
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\bin\Debug\net9.0\NoteApp.exe
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\bin\Debug\net9.0\NoteApp.deps.json
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\bin\Debug\net9.0\NoteApp.runtimeconfig.json
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\bin\Debug\net9.0\NoteApp.dll
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\bin\Debug\net9.0\NoteApp.pdb
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\NoteApp.AssemblyInfoInputs.cache
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\NoteApp.AssemblyInfo.cs
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\NoteApp.csproj.CoreCompileInputs.cache
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\NoteApp.dll
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\refint\NoteApp.dll
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\NoteApp.pdb
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\NoteApp.genruntimeconfig.cache
+C:\VS Code\C#\Dotnet\learning\ClassNote\NoteApp\obj\Debug\net9.0\ref\NoteApp.dll
